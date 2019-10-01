@@ -1,5 +1,7 @@
-//Script By Wahyu
-//WhatsApp https://wa.me/6285804041617&text=Hai%3ABoleh%20Kenalan%20Gak
+//|=======================================================================|\\
+//| Script By Wahyu                                                       |\\
+//| WhatsApp https://wa.me/6285804041617&text=Hai%3ABoleh%20Kenalan%20Gak |\\
+//|=======================================================================|\\
 
 function getDina (day, month, year) {
 var tempyear, valdlookup, valdlookupday, dinane;
